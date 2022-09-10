@@ -1,6 +1,6 @@
 Prueba Jol: Privacy policy
 
-Welcome to the prueba Jol app for Android!
+Welcome to the Prueba Jol app for Android!
 
 This is an Android app developed by Jorge Ortega-Lopez. The app is available on Google Play.
 
